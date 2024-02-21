@@ -9,3 +9,9 @@
 ### Live link: https://codepen.io/3DRudy/pen/WNmWgjB
 
 <br>
+
+<p align="center">
+    <img src="media/14ThreeSimpleButtons.gif" alt="Alt text" style="max-width: 600px;">
+</p>
+
+<br>
